@@ -6,6 +6,11 @@ using namespace std;
 
 int main()
 {
+
+    cout << "Digite um numero: " <<endl;
+    int num;
+    cin >> num;
+    
     cout << "Estudando a entrada e saida de dados." << endl;
     cout << hex << 10 + 50 << endl;
     cout << setw(1000) << 10 + 50 << endl;
