@@ -3,7 +3,7 @@
         {
             "type": "cppbuild",
             "label": "C/C++: gcc.exe arquivo de build ativo",
-            "command": "E:/MinGW/bin/gcc.exe",
+            "command": "E:\\MinGW\\bin\\gdb.exe",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
@@ -12,7 +12,7 @@
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
-                "cwd": "E:/MinGW/bin"
+                "cwd": "E:\\MinGW\\bin\\gdb.exe",
             },
             "problemMatcher": [
                 "$gcc"

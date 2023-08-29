@@ -15,6 +15,8 @@ int main()
     cout << hex << 10 + 50 << endl;
     cout << setw(1000) << 10 + 50 << endl;
 
+     cout << num << endl;
+
     cout << setw(10) << 1 << endl;
     cout << setw(10) << 2 << endl;
     cout << setw(10) << 3 << endl;
